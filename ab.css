@@ -1,0 +1,16 @@
+/* change of color and background inside text */
+input[type = "text"]{ 
+    color:white;
+    background-color: red;
+}
+input[type = "password"]{
+    background-color: blue;
+    color: white;
+}
+/* change of color where google is written */
+a[href *= "google"]{
+    color:red
+}
+a[herf $= ".com"]{
+    color: orange;
+}

@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+#main-heading{
+    background-color: bisque;
+}
+.main-section{
+    background-color:red;
+}
+p{
+    color: white;
+}

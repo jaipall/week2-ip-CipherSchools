@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    
+}
+.main{
+    color: rgb(17, 96, 17);
+}
+.first{
+    background-color: rgb(182, 186, 189);
+}
+.second{
+    background-color: rgb(182, 186, 189);
+}
+.m1{
+    color: rgb(17, 96, 17); 
+}
+.m2{
+    color: rgb(17, 96, 17);
+}
+.highlight1{
+    background-color: aqua;
+}
+.highlight2{
+    background-color: aqua;
+}
